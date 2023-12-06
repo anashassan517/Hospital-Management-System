@@ -68,3 +68,38 @@ D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Cod
 D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\obj\Debug\Clinic Management System.csproj.CopyComplete
 D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\obj\Debug\DBProject.dll
 D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\obj\Debug\DBProject.pdb
+E:\FAST UNIVERSITY\SEMESTER 7\IPT\PROJECT\testing\Clinic-Management-System-ASP.NET\Code\DBProject\bin\ApplicationInsights.config
+E:\FAST UNIVERSITY\SEMESTER 7\IPT\PROJECT\testing\Clinic-Management-System-ASP.NET\Code\DBProject\bin\roslyn\csc.exe
+E:\FAST UNIVERSITY\SEMESTER 7\IPT\PROJECT\testing\Clinic-Management-System-ASP.NET\Code\DBProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\FAST UNIVERSITY\SEMESTER 7\IPT\PROJECT\testing\Clinic-Management-System-ASP.NET\Code\DBProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\FAST UNIVERSITY\SEMESTER 7\IPT\PROJECT\testing\Clinic-Management-System-ASP.NET\Code\DBProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\FAST UNIVERSITY\SEMESTER 7\IPT\PROJECT\testing\Clinic-Management-System-ASP.NET\Code\DBProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\FAST UNIVERSITY\SEMESTER 7\IPT\PROJECT\testing\Clinic-Management-System-ASP.NET\Code\DBProject\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\FAST UNIVERSITY\SEMESTER 7\IPT\PROJECT\testing\Clinic-Management-System-ASP.NET\Code\DBProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\FAST UNIVERSITY\SEMESTER 7\IPT\PROJECT\testing\Clinic-Management-System-ASP.NET\Code\DBProject\bin\roslyn\System.Collections.Immutable.dll
+E:\FAST UNIVERSITY\SEMESTER 7\IPT\PROJECT\testing\Clinic-Management-System-ASP.NET\Code\DBProject\bin\roslyn\System.Reflection.Metadata.dll
+E:\FAST UNIVERSITY\SEMESTER 7\IPT\PROJECT\testing\Clinic-Management-System-ASP.NET\Code\DBProject\bin\roslyn\vbc.exe
+E:\FAST UNIVERSITY\SEMESTER 7\IPT\PROJECT\testing\Clinic-Management-System-ASP.NET\Code\DBProject\bin\roslyn\VBCSCompiler.exe
+E:\FAST UNIVERSITY\SEMESTER 7\IPT\PROJECT\testing\Clinic-Management-System-ASP.NET\Code\DBProject\bin\roslyn\VBCSCompiler.exe.config
+E:\FAST UNIVERSITY\SEMESTER 7\IPT\PROJECT\testing\Clinic-Management-System-ASP.NET\Code\DBProject\bin\DBProject.dll.config
+E:\FAST UNIVERSITY\SEMESTER 7\IPT\PROJECT\testing\Clinic-Management-System-ASP.NET\Code\DBProject\bin\DBProject.dll
+E:\FAST UNIVERSITY\SEMESTER 7\IPT\PROJECT\testing\Clinic-Management-System-ASP.NET\Code\DBProject\bin\DBProject.pdb
+E:\FAST UNIVERSITY\SEMESTER 7\IPT\PROJECT\testing\Clinic-Management-System-ASP.NET\Code\DBProject\bin\Microsoft.AI.Agent.Intercept.dll
+E:\FAST UNIVERSITY\SEMESTER 7\IPT\PROJECT\testing\Clinic-Management-System-ASP.NET\Code\DBProject\bin\Microsoft.AI.DependencyCollector.dll
+E:\FAST UNIVERSITY\SEMESTER 7\IPT\PROJECT\testing\Clinic-Management-System-ASP.NET\Code\DBProject\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\FAST UNIVERSITY\SEMESTER 7\IPT\PROJECT\testing\Clinic-Management-System-ASP.NET\Code\DBProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\FAST UNIVERSITY\SEMESTER 7\IPT\PROJECT\testing\Clinic-Management-System-ASP.NET\Code\DBProject\bin\Microsoft.AI.Web.dll
+E:\FAST UNIVERSITY\SEMESTER 7\IPT\PROJECT\testing\Clinic-Management-System-ASP.NET\Code\DBProject\bin\Microsoft.AI.WindowsServer.dll
+E:\FAST UNIVERSITY\SEMESTER 7\IPT\PROJECT\testing\Clinic-Management-System-ASP.NET\Code\DBProject\bin\Microsoft.ApplicationInsights.dll
+E:\FAST UNIVERSITY\SEMESTER 7\IPT\PROJECT\testing\Clinic-Management-System-ASP.NET\Code\DBProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\FAST UNIVERSITY\SEMESTER 7\IPT\PROJECT\testing\Clinic-Management-System-ASP.NET\Code\DBProject\bin\Microsoft.AI.DependencyCollector.xml
+E:\FAST UNIVERSITY\SEMESTER 7\IPT\PROJECT\testing\Clinic-Management-System-ASP.NET\Code\DBProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\FAST UNIVERSITY\SEMESTER 7\IPT\PROJECT\testing\Clinic-Management-System-ASP.NET\Code\DBProject\bin\Microsoft.AI.Web.xml
+E:\FAST UNIVERSITY\SEMESTER 7\IPT\PROJECT\testing\Clinic-Management-System-ASP.NET\Code\DBProject\bin\Microsoft.AI.WindowsServer.xml
+E:\FAST UNIVERSITY\SEMESTER 7\IPT\PROJECT\testing\Clinic-Management-System-ASP.NET\Code\DBProject\bin\Microsoft.ApplicationInsights.xml
+E:\FAST UNIVERSITY\SEMESTER 7\IPT\PROJECT\testing\Clinic-Management-System-ASP.NET\Code\DBProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\FAST UNIVERSITY\SEMESTER 7\IPT\PROJECT\testing\Clinic-Management-System-ASP.NET\Code\DBProject\obj\Debug\Clinic Management System.csproj.AssemblyReference.cache
+E:\FAST UNIVERSITY\SEMESTER 7\IPT\PROJECT\testing\Clinic-Management-System-ASP.NET\Code\DBProject\obj\Debug\Clinic Management System.csproj.CoreCompileInputs.cache
+E:\FAST UNIVERSITY\SEMESTER 7\IPT\PROJECT\testing\Clinic-Management-System-ASP.NET\Code\DBProject\obj\Debug\Clinic Management System.csproj.CopyComplete
+E:\FAST UNIVERSITY\SEMESTER 7\IPT\PROJECT\testing\Clinic-Management-System-ASP.NET\Code\DBProject\obj\Debug\DBProject.dll
+E:\FAST UNIVERSITY\SEMESTER 7\IPT\PROJECT\testing\Clinic-Management-System-ASP.NET\Code\DBProject\obj\Debug\DBProject.pdb

@@ -5,7 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
 
-    <title>MedicX 4 Health Care Login &amp; Register</title>
+    <title>Hospital Management Login &amp; Register</title>
 
 
  <script type="text/javascript">
@@ -75,12 +75,11 @@
              alert("Birth Date missing. Enter Birth Date.");
              return false;
          }
-
-         else if ((Bdate == arrDbirth[0]) || (arrDbirth[0].length != 2) || arrDbirth[1].length != 2 || arrDbirth[2].length != 4 || !arrDbirth[0].match(/^[0-9]*$/) || !arrDbirth[1].match(/^[0-9]*$/) || !arrDbirth[2].match(/^[0-9]*$/) || Number(arrDbirth[0]) > 31 || Number(arrDbirth[1]) > 12)
-         {
+         else if ((Bdate == arrDbirth[0]) || (arrDbirth[0].length != 2) || arrDbirth[1].length != 2 || arrDbirth[2].length != 4 || !arrDbirth[0].match(/^[0-9]*$/) || !arrDbirth[1].match(/^[0-9]*$/) || !arrDbirth[2].match(/^[0-9]*$/) || Number(arrDbirth[0]) > 31 || Number(arrDbirth[1]) > 12) {
              alert("Birth Date Format Incorrect or out of Range.");
              return false;
          }
+
 
 
          if (!validateEmail(Email))
@@ -145,7 +144,7 @@
      //------------------------------------------------------------------//
      //------------------------------------------------------------------//
 
-</script>
+ </script>
 
 
     <!-- CSS -->
@@ -192,11 +191,11 @@
                    <div class="row">
                          <div class="col-sm-8 col-sm-offset-2 text">
                         
-                            <h1><strong>MedicX 4 Health Care</strong> Login &amp; Registration Form</h1>
+                            <h1><strong>Hospital Management System</strong><br /> Login &amp; Registration Form</h1>
                             
                             <div class="description">
                             	<p>
-	                            	This is a free <strong>"Login and Registration form"</strong> for Health Care Clinic. 
+	                            	This is a <strong>"Login and Registration form"</strong> for Health Care Clinic. 
                             	</p>                            
                             </div>
                         </div>
@@ -358,7 +357,7 @@
         			
         			<div class="col-sm-8 col-sm-offset-2">
         				<div class="footer-border"></div>
-        				<p>If you have any query, please feel free to contact us. <i class="fa fa-smile-o"></i></p>
+        				<p>If you have any query dbsbds, please feel free to contact us. <i class="fa fa-smile-o"></i></p>
                     </div>
         			
         		</div>

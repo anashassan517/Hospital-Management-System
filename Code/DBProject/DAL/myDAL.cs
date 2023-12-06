@@ -165,28 +165,34 @@ namespace DBProject.DAL
         public int DoctorEmailAlreadyExist(string Email)
         {
             int status = 0;
-            SqlConnection con = new SqlConnection(connString);
-            con.Open();
 
+            using (SqlConnection con = new SqlConnection(connString))
+            {
+                con.Open();
 
-            /*
-             @Email
-             @status OUTPUT
-             */
+                try
+                {
+                    using (SqlCommand cmd = new SqlCommand("CheckDoctorEmail", con))
+                    {
+                        cmd.CommandType = CommandType.StoredProcedure;
+                        cmd.Parameters.Add("@Email", SqlDbType.VarChar, 30).Value = Email;
+                        cmd.Parameters.Add("@status", SqlDbType.Int).Direction = ParameterDirection.Output;
 
+                        cmd.ExecuteNonQuery();
 
-            SqlCommand cmd = new SqlCommand("CheckDoctorEmail", con);
-            cmd.CommandType = CommandType.StoredProcedure;
-            cmd.Parameters.Add("@Email", SqlDbType.VarChar, 30).Value = Email;
-            cmd.Parameters.Add("@status", SqlDbType.Int).Direction = ParameterDirection.Output;
-
-            cmd.ExecuteNonQuery();
-
-            status = (int)cmd.Parameters["@status"].Value;
-            con.Close();
+                        status = (int)cmd.Parameters["@status"].Value;
+                    }
+                }
+                catch (Exception ex)
+                {
+                    // Log the exception for further analysis
+                    Console.WriteLine("Exception: " + ex.Message);
+                }
+            }
 
             return status;
         }
+
 
 
 
